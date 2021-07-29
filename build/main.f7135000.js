@@ -1,0 +1,1 @@
+!function(){"use strict";console.log("打包"),new Promise((()=>{console.log(10),console.log([1,2,3,4,4]),fetch("/").then((o=>o.json())).then((o=>{console.log(o)})),setTimeout((()=>{resolve("成功")}),2e3)})).then((o=>{console.log("状态",o)}))}();

@@ -1,0 +1,4 @@
+#app{height:200px;width:200px;background:pink;display:grid}
+
+.flex{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}
+
